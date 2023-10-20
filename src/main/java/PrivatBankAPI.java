@@ -9,7 +9,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class PrivatBankAPI {
-    private final String TOKEN_MONO = "u9q4pmlANZUadu_qsMwtJwwihPm1m22dDlXrBDQ8eXMU";
     public String getExchangeRatePrivat(String currencyNameA, String currencyNameB) {
         double rateBuy = 0.0;
         double rateSell = 0.0;

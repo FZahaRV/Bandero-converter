@@ -6,8 +6,6 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonElement;
-import java.util.Currency;
-import java.util.HashMap;
 
 public class MonobankAPI {
     private final String TOKEN_MONO = "u9q4pmlANZUadu_qsMwtJwwihPm1m22dDlXrBDQ8eXMU";
