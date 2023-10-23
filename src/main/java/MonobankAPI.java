@@ -8,7 +8,7 @@ import com.google.gson.JsonParser;
 import com.google.gson.JsonElement;
 
 public class MonobankAPI {
-    private final String TOKEN_MONO = "u9q4pmlANZUadu_qsMwtJwwihPm1m22dDlXrBDQ8eXMU";
+    private final String TOKEN_MONO = "";
     public String getExchangeRateMono(String currencyNameA, String currencyNameB) {
         double rateBuy = 0.0;
         double rateSell = 0.0;
